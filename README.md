@@ -43,8 +43,11 @@ Misery Index (inflation + unemployment) comparison.
 
 ## 4. How to Run
 ### Option 1 — Google Colab
-1. Open the Colab notebook link provided in this repository.
-2. Run all cells in order. The dataset is already included in the repo, so no additional download is needed.
+1. Open the Colab notebook [here](https://colab.research.google.com/drive/14bz7YD4RXYYlYRbUVWQpK0Bq6p7faByL?usp=sharing).
+2. Go to File → Save a copy in Drive to create your own editable version.
+3. Download the dataset from [this link](https://github.com/Yafit23/Happiness-Factors/blob/main/WH2018DATA.csv) and upload it to the Colab session (or ensure it’s in the repo).
+4. Run all cells in order to reproduce the analysis.
+
 
 ### Option 2 — Local Execution (Run On Your Computer)
 1. **Download or clone** this repository from [here](https://github.com/Yafit23/Happiness-Factors.git).
