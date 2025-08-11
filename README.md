@@ -1,5 +1,5 @@
 # Happiness-Factors
-![World Happiness Map](images/world_happiness_map.png)
+![World Happiness Map](World Happiness Map.png)
 Statistical analysis of World Happiness Report 2018 – exploring the leading factors for happiness across countries.
 
 
